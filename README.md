@@ -440,6 +440,7 @@ Native desktop applications for managing and monitoring docker hosts and cluster
 -   [DockerSurfer](https://github.com/Simone-Erba/DockerSurfer) :skull: - A web service for analyze and browse dependencies between Docker images in the Docker registry, by [@Simone-Erba](https://github.com/Simone-Erba/)
 -   [dockge](https://github.com/louislam/dockge) - easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager by [@louislam](https://github.com/louislam).
 -   [Kubevious](https://github.com/kubevious/kubevious) - A highly visual web UI for Kubernetes which renders configuration and state in an application centric way by [@rubenhak](https://github.com/rubenhak).
+-   [Komodo](https://github.com/mbecker20/komodo) - A tool to build and deploy software on many servers
 -   [Mafl](https://github.com/hywax/mafl) - Minimalistic flexible homepage by [@hywax](https://github.com/hywax/)
 -   [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring
 -   [OctoLinker](https://github.com/OctoLinker/OctoLinker) - A browser extension for GitHub that makes the image name in a `Dockerfile` clickable and redirect you to the related Docker Hub page.
